@@ -28,7 +28,7 @@ The hands-on session is divided into three subsessions:
 - Required software:
     - For machine and deep learning sessions:
         - A supported IDE (needed for scripts)
-        - Jupyter Notebook or VSCodium
+        - Jupyter Notebook or VSCode(ium)
         - Python 3 and its libraries
 
 ### Getting Started

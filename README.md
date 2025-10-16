@@ -25,7 +25,12 @@ The hands-on session is divided into three subsessions:
 ### Prerequisites
 - Basic knowledge of R/Python programming.
 - Familiarity with microbiome data formats (e.g., OTU tables, FASTA files).
-- Required software: [List any tools, e.g., RStudio, Jupyter Notebook].
+- Required software:
+    - For machine and deep learning sessions:
+        - A supported IDE (needed for scripts)
+        - Jupyter Notebook or VSCodium
+        - Python 3 and requirements libraries
+    - For 
 
 ### Getting Started
 1. Clone this repository: `git clone https://github.com/your-repo/BIOAQUA_COST_CA22160-20251021.git`
@@ -35,7 +40,10 @@ The hands-on session is divided into three subsessions:
 ### Resources
 - [BIOAQUA COST Action Website](https://www.cost.eu/actions/CA22160/)
 - 📚 Suggested Reading & Resources:
+    - [QIIME 2 16S Amplicon Pipeline]()
+    - [QIIME 2 - MOSHPIT Whole Metagenome Pipeline]()
     - [QIIME 2 Machine Learning Plugin](https://docs.qiime2.org/)
+    - [Meta-CAMP - MetaSUB Whole Metagenome Analysis Pipeline]()
     - [scikit-learn documentation](https://scikit-learn.org/stable/)
     - [TensorFlow tutorials](https://www.tensorflow.org/tutorials)
     - [PyTorch tutorials](https://pytorch.org/tutorials/)

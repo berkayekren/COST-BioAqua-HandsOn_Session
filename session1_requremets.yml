@@ -1,0 +1,16 @@
+name: session1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.2
+  - pip
+  - pip:
+    - pandas==2.3.3
+    - numpy==1.26.4
+    - seaborn==0.13.2
+    - matplotlib==3.10.6
+    - scikit-learn==1.7.2
+    - Boruta==0.4.3
+    - xgboost==3.0.5
+    - lightgbm==4.3.0

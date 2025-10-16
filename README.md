@@ -29,25 +29,25 @@ The hands-on session is divided into three subsessions:
     - For machine and deep learning sessions:
         - A supported IDE (needed for scripts)
         - Jupyter Notebook or VSCodium
-        - Python 3 and requirements libraries
-    - For 
+        - Python 3 and its libraries
 
 ### Getting Started
-1. Clone this repository: `git clone https://github.com/your-repo/BIOAQUA_COST_CA22160-20251021.git`
-2. Install dependencies: [Provide installation commands or links].
+1. Clone this repository: `git clone https://github.com/berkayekren/COST-BioAqua-HandsOn_Session.git`
+2. Install dependencies:
+    - conda environment (Anaconda, miniconda or mamba environment)
 3. Follow the notebooks/scripts in the respective subsession folders.
 
 ### Resources
 - [BIOAQUA COST Action Website](https://www.cost.eu/actions/CA22160/)
 - 📚 Suggested Reading & Resources:
-    - [QIIME 2 16S Amplicon Pipeline]()
-    - [QIIME 2 - MOSHPIT Whole Metagenome Pipeline]()
+    - [QIIME 2 16S Amplicon Pipeline](https://library.qiime2.org/quickstart/amplicon)
+    - [QIIME 2 - MOSHPIT Whole Metagenome Pipeline](https://library.qiime2.org/quickstart/moshpit)
     - [QIIME 2 Machine Learning Plugin](https://docs.qiime2.org/)
-    - [Meta-CAMP - MetaSUB Whole Metagenome Analysis Pipeline]()
+    - [Meta-CAMP - MetaSUB Whole Metagenome Analysis Pipeline](https://github.com/Meta-CAMP)
     - [scikit-learn documentation](https://scikit-learn.org/stable/)
     - [TensorFlow tutorials](https://www.tensorflow.org/tutorials)
     - [PyTorch tutorials](https://pytorch.org/tutorials/)
-    - Example dataset: [EBI Metagenomics](https://www.ebi.ac.uk/metagenomics/)
+    - Example datasets: [EBI Metagenomics](https://www.ebi.ac.uk/metagenomics/)
 
 ### Contact
 For questions, contact Berkay Ekren [berkayekren@gmail.com] or the session organizers.

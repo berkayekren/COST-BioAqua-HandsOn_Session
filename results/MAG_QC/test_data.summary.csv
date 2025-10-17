@@ -1,0 +1,6 @@
+mag,completeness,contamination,N50,size,GC,clade_separation_score,n_effective_surplus_clades,strain_het,num_cds,num_trna,num_rrna_total,num_rrna_5s,num_rrna_16s,num_rrna_23s,avg_mag_ra,classification,bin_cov,ref_cov,ANI,genome_fraction,NG50,NA50,num_misassemb,prop_misassemb_ctgs,prop_misassemb_len,prop_unaln_ctgs,prop_unaln_len,MIMAG_Quality,GUNC_Status,Overall_Score
+concoct_bin.25,80.64,1.3,6004,3692311,0.56,0.0,0.0,0.0,3532,41,2,2,0,0,0.2501617546651402,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,Medium,Pass,76.02922034178562
+concoct_bin.8_sub,80.11,2.58,6130,2585253,0.43,0.0,0.0,16.67,2222,27,0,0,0,0,0.2499382443962035,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,Medium,Pass,69.1037302372592
+maxbin2_bin.1,72.94,0.17,5693,1912374,0.58,0.0,0.0,0.0,1755,34,3,2,0,1,0.2499576208628192,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,Medium,Pass,73.96767059190577
+maxbin2_bin.4_sub,75.41,4.67,6050,3382257,0.45,1.0,0.32,5.26,3297,24,1,0,1,0,0.249942380075837,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,Medium,Fail,53.95087768732623
+unbinned,59.25,14.83,1894,4417311,0.47,1.0,2.78,0.0,4492,75,15,5,4,6,,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,Low,Fail,-13.261310012666378

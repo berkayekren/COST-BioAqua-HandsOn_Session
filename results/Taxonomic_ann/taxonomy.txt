@@ -1,0 +1,804 @@
+id	superkingdom	phylum	class	order	family	genus	species
+ti|186801	Bacteria	Bacillota	Clostridia				
+ti|91061	Bacteria	Bacillota	Bacilli				
+ti|526524	Bacteria	Bacillota	Erysipelotrichia				
+ti|1737404	Bacteria	Bacillota	Tissierellia				
+ti|909932	Bacteria	Bacillota	Negativicutes				
+ti|1760	Bacteria	Actinomycetota	Actinomycetes				
+ti|3028117	Bacteria	Cyanobacteriota	Cyanophyceae				
+ti|31969	Bacteria	Mycoplasmatota	Mollicutes				
+ti|1236	Bacteria	Pseudomonadota	Gammaproteobacteria				
+ti|28216	Bacteria	Pseudomonadota	Betaproteobacteria				
+ti|28211	Bacteria	Pseudomonadota	Alphaproteobacteria				
+ti|117743	Bacteria	Bacteroidota	Flavobacteriia				
+ti|200643	Bacteria	Bacteroidota	Bacteroidia				
+ti|768503	Bacteria	Bacteroidota	Cytophagia				
+ti|117747	Bacteria	Bacteroidota	Sphingobacteriia				
+ti|1853228	Bacteria	Bacteroidota	Chitinophagia				
+ti|203490	Bacteria	Fusobacteriota	Fusobacteriia				
+ti|3031852	Bacteria	Campylobacterota	Epsilonproteobacteria				
+ti|203692	Bacteria	Spirochaetota	Spirochaetia				
+ti|1553900	Bacteria	Bdellovibrionota	Oligoflexia				
+ti|67799	Bacteria	Thermodesulfobacteriota	Thermodesulfobacteria				
+ti|3024418	Bacteria	Thermodesulfobacteriota	Desulfobacteria				
+ti|649775	Bacteria	Synergistota	Synergistia				
+ti|3002443	Bacteria	Thermodesulfobiota	Thermodesulfobiia				
+ti|40674	Eukaryota	Chordata	Mammalia				
+ti|224756	Archaea	Methanobacteriota	Methanomicrobia				
+ti|183963	Archaea	Methanobacteriota	Halobacteria				
+ti|183939	Archaea	Methanobacteriota	Methanococci				
+ti|1643678	Archaea	Nitrososphaerota	Nitrososphaeria				
+ti|186803	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae		
+ti|1185407	Bacteria	Bacillota	Clostridia	Lachnospirales	Defluviitaleaceae		
+ti|3018741	Bacteria	Bacillota	Clostridia	Lachnospirales	Cellulosilyticaceae		
+ti|2603322	Bacteria	Bacillota	Clostridia	Lachnospirales	Vallitaleaceae		
+ti|216572	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae		
+ti|31979	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae		
+ti|543314	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriales Family XIII. Incertae Sedis		
+ti|186806	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae		
+ti|3082771	Bacteria	Bacillota	Clostridia	Eubacteriales	Acutalibacteraceae		
+ti|2937909	Bacteria	Bacillota	Clostridia	Eubacteriales	Desulfitobacteriaceae		
+ti|68298	Bacteria	Bacillota	Clostridia	Eubacteriales	Syntrophomonadaceae		
+ti|31984	Bacteria	Bacillota	Clostridia	Eubacteriales	Heliobacteriaceae		
+ti|186807	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptococcaceae		
+ti|186804	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae		
+ti|3030910	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Anaerovoracaceae		
+ti|3118657	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Thermotaleaceae		
+ti|3118656	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Natronincolaceae		
+ti|186814	Bacteria	Bacillota	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae		
+ti|485255	Bacteria	Bacillota	Clostridia	Natranaerobiales	Natranaerobiaceae		
+ti|186817	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae		
+ti|186822	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae		
+ti|90964	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae		
+ti|186823	Bacteria	Bacillota	Bacilli	Bacillales	Alicyclobacillaceae		
+ti|186818	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae		
+ti|186820	Bacteria	Bacillota	Bacilli	Bacillales	Listeriaceae		
+ti|1300	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae		
+ti|33958	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae		
+ti|81852	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae		
+ti|186828	Bacteria	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae		
+ti|128827	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae		
+ti|2810280	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae		
+ti|2810281	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae		
+ti|1570339	Bacteria	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae		
+ti|2992719	Bacteria	Bacillota	Tissierellia	Tissierellales	Tepidimicrobiaceae		
+ti|1737406	Bacteria	Bacillota	Tissierellia	Tissierellales	Tissierellaceae		
+ti|909930	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae		
+ti|1843491	Bacteria	Bacillota	Negativicutes	Selenomonadales	Selenomonadaceae		
+ti|31953	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae		
+ti|1762	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae		
+ti|1653	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae		
+ti|2062	Bacteria	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomycetaceae		
+ti|2049	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae		
+ti|85019	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Brevibacteriaceae		
+ti|2070	Bacteria	Actinomycetota	Actinomycetes	Pseudonocardiales	Pseudonocardiaceae		
+ti|31957	Bacteria	Actinomycetota	Actinomycetes	Propionibacteriales	Propionibacteriaceae		
+ti|1892263	Bacteria	Cyanobacteriota	Cyanophyceae	Nostocales	Hapalosiphonaceae		
+ti|1892259	Bacteria	Cyanobacteriota	Cyanophyceae	Nostocales	Aphanizomenonaceae		
+ti|1890500	Bacteria	Cyanobacteriota	Cyanophyceae	Pleurocapsales	Hyellaceae		
+ti|1890436	Bacteria	Cyanobacteriota	Cyanophyceae	Pseudanabaenales	Pseudanabaenaceae		
+ti|1890438	Bacteria	Cyanobacteriota	Cyanophyceae	Leptolyngbyales	Leptolyngbyaceae		
+ti|2881426	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Prochlorococcaceae		
+ti|2895623	Bacteria	Mycoplasmatota		Mycoplasmoidales	Metamycoplasmataceae		
+ti|2790998	Bacteria	Mycoplasmatota		Mycoplasmoidales	Mycoplasmoidaceae		
+ti|2131	Bacteria	Mycoplasmatota	Mollicutes	Entomoplasmatales	Spiroplasmataceae		
+ti|543	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae		
+ti|1903414	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae		
+ti|1903409	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae		
+ti|135620	Bacteria	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae		
+ti|2066474	Bacteria	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Endozoicomonadaceae		
+ti|403	Bacteria	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylococcaceae		
+ti|32033	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae		
+ti|34064	Bacteria	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Francisellaceae		
+ti|267888	Bacteria	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae		
+ti|712	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae		
+ti|641	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae		
+ti|119060	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae		
+ti|41294	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Nitrobacteraceae		
+ti|2854170	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Roseobacteraceae		
+ti|49546	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae		
+ti|2762318	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae		
+ti|39782	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Blattabacteriaceae		
+ti|815	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ti|2005473	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae		
+ti|171552	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae		
+ti|2005525	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae		
+ti|1471398	Bacteria	Bacteroidota	Bacteroidia	Marinilabiliales	Prolixibacteraceae		
+ti|563798	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Cyclobacteriaceae		
+ti|1937968	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Bernardetiaceae		
+ti|2896860	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Spirosomataceae		
+ti|1853232	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Hymenobacteraceae		
+ti|84566	Bacteria	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae		
+ti|563835	Bacteria	Bacteroidota	Chitinophagia	Chitinophagales	Chitinophagaceae		
+ti|203492	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae		
+ti|1129771	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae		
+ti|72293	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae		
+ti|2808963	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Arcobacteraceae		
+ti|72294	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae		
+ti|2771471	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Sulfurimonadaceae		
+ti|1643685	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae		
+ti|2845253	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Treponemataceae		
+ti|2791015	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Sphaerochaetaceae		
+ti|170	Bacteria	Spirochaetota	Spirochaetia	Leptospirales	Leptospiraceae		
+ti|188711	Bacteria	Thermodesulfobacteriota	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae		
+ti|213119	Bacteria	Thermodesulfobacteriota	Desulfobacteria	Desulfobacterales	Desulfobacteraceae		
+ti|3029088	Bacteria	Synergistota	Synergistia	Synergistales	Dethiosulfovibrionaceae		
+ti|227387	Bacteria	Thermodesulfobiota	Thermodesulfobiia	Thermodesulfobiales	Thermodesulfobiaceae		
+ti|9604	Eukaryota	Chordata	Mammalia	Primates	Hominidae		
+ti|88404	Archaea	Methanobacteriota	Methanomicrobia	Methanomicrobiales	Methanocorpusculaceae		
+ti|1963268	Archaea	Methanobacteriota	Halobacteria	Halobacteriales	Haloarculaceae		
+ti|196117	Archaea	Methanobacteriota	Methanococci	Methanococcales	Methanocaldococcaceae		
+ti|338190	Archaea	Nitrososphaerota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae		
+ti|841	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	
+ti|1766253	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	
+ti|207244	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	
+ti|2719313	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	
+ti|2944193	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Simiaoa	
+ti|2944152	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Wujia	
+ti|572511	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	
+ti|2569097	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerobutyricum	
+ti|2316020	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	
+ti|830	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyrivibrio	
+ti|189330	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	
+ti|28050	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	
+ti|1506553	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	
+ti|33042	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	
+ti|2944195	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Qiania	
+ti|2719231	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lacrimispora	
+ti|248744	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Marvinbryantia	
+ti|1769710	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Sellimonas	
+ti|3024823	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaeromicropila	
+ti|1843210	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerocolumna	
+ti|46205	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Pseudobutyrivibrio	
+ti|2163168	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Kineothrix	
+ti|3031933	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Chordicoccus	
+ti|1663717	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Herbinix	
+ti|2888809	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Novisyntrophococcus	
+ti|2944198	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Wansuia	
+ti|3076670	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Claveliimonas	
+ti|1164882	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoanaerobaculum	
+ti|1185408	Bacteria	Bacillota	Clostridia	Lachnospirales	Defluviitaleaceae	Defluviitalea	
+ti|698776	Bacteria	Bacillota	Clostridia	Lachnospirales	Cellulosilyticaceae	Cellulosilyticum	
+ti|1348611	Bacteria	Bacillota	Clostridia	Lachnospirales	Vallitaleaceae	Vallitalea	
+ti|216851	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	
+ti|2892396	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Vescimonas	
+ti|1905344	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruthenibacterium	
+ti|292632	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Subdoligranulum	
+ti|1263	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	
+ti|459786	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Oscillibacter	
+ti|2591381	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Dysosmobacter	
+ti|2892397	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Pusillibacter	
+ti|946234	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Flavonifractor	
+ti|2304687	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Petroclostridium	
+ti|1508657	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminiclostridium	
+ti|2842531	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Solibaculum	
+ti|244127	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Anaerotruncus	
+ti|35829	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Acetivibrio	
+ti|1485	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	
+ti|1649459	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	
+ti|1434026	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Oceanirhabdus	
+ti|1266	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Sarcina	
+ti|1848399	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Crassaminicella	
+ti|2717089	Bacteria	Bacillota	Clostridia	Eubacteriales		Massilistercora	
+ti|1392389	Bacteria	Bacillota	Clostridia	Eubacteriales		Intestinimonas	
+ti|415014	Bacteria	Bacillota	Clostridia	Eubacteriales		Proteiniborus	
+ti|2886866	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriales Family XIII. Incertae Sedis	Sinanaerobacter	
+ti|1730	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	
+ti|1918385	Bacteria	Bacillota	Clostridia	Eubacteriales	Acutalibacteraceae	Acutalibacter	
+ti|36853	Bacteria	Bacillota	Clostridia	Eubacteriales	Desulfitobacteriaceae	Desulfitobacterium	
+ti|2293313	Bacteria	Bacillota	Clostridia	Eubacteriales	Syntrophomonadaceae	Candidatus Syntrophocurvum	
+ti|79598	Bacteria	Bacillota	Clostridia	Eubacteriales	Heliobacteriaceae	Heliorestis	
+ti|51514	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptococcaceae	Dehalobacterium	
+ti|1870884	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Clostridioides	
+ti|1849822	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Paraclostridium	
+ti|1501226	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Romboutsia	
+ti|1505652	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Terrisporobacter	
+ti|1926556	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Anaerovoracaceae	Emergencia	
+ti|86331	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Anaerovoracaceae	Mogibacterium	
+ti|390805	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Thermotaleaceae	Geosporobacter	
+ti|114627	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Natronincolaceae	Alkaliphilus	
+ti|28895	Bacteria	Bacillota	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacterium	
+ti|375928	Bacteria	Bacillota	Clostridia	Natranaerobiales	Natranaerobiaceae	Natranaerobius	
+ti|1386	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+ti|1329200	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Fictibacillus	
+ti|2837504	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Heyndrickxia	
+ti|2837508	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Rossellomorea	
+ti|1494427	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Tepidibacillus	
+ti|289201	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Pontibacillus	
+ti|2675232	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Neobacillus	
+ti|400634	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Lysinibacillus	
+ti|1221880	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Psychrobacillus	
+ti|44249	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	
+ti|55080	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus	
+ti|329857	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Cohnella	
+ti|1279	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	
+ti|432330	Bacteria	Bacillota	Bacilli	Bacillales	Alicyclobacillaceae	Tumebacillus	
+ti|29330	Bacteria	Bacillota	Bacilli	Bacillales	Alicyclobacillaceae	Alicyclobacillus	
+ti|648800	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Solibacillus	
+ti|651660	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Paenisporosarcina	
+ti|2755	Bacteria	Bacillota	Bacilli	Bacillales	Listeriaceae	Brochothrix	
+ti|1301	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	
+ti|2767887	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+ti|2767879	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Companilactobacillus	
+ti|1578	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+ti|2742598	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	
+ti|1350	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	
+ti|2747	Bacteria	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	
+ti|2749267	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Amedibacterium	
+ti|2679910	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Intestinibaculum	
+ti|123375	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Solobacterium	
+ti|135858	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	Catenibacterium	
+ti|191303	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	Turicibacter	
+ti|150022	Bacteria	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	Finegoldia	
+ti|1354809	Bacteria	Bacillota	Tissierellia	Tissierellales	Tepidimicrobiaceae	Keratinibaculum	
+ti|33024	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	
+ti|864	Bacteria	Bacillota	Negativicutes	Selenomonadales	Selenomonadaceae	Pectinatus	
+ti|1678	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	
+ti|1866885	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycolicibacterium	
+ti|1716	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	
+ti|1883	Bacteria	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomycetaceae	Streptomyces	
+ti|2063	Bacteria	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomycetaceae	Kitasatospora	
+ti|1069494	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Trueperella	
+ti|1696	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Brevibacteriaceae	Brevibacterium	
+ti|1835	Bacteria	Actinomycetota	Actinomycetes	Pseudonocardiales	Pseudonocardiaceae	Saccharopolyspora	
+ti|203133	Bacteria	Actinomycetota	Actinomycetes	Propionibacteriales	Propionibacteriaceae	Propionimicrobium	
+ti|1190	Bacteria	Cyanobacteriota	Cyanophyceae	Nostocales	Hapalosiphonaceae	Fischerella	
+ti|752201	Bacteria	Cyanobacteriota	Cyanophyceae	Nostocales	Aphanizomenonaceae	Sphaerospermopsis	
+ti|44474	Bacteria	Cyanobacteriota	Cyanophyceae	Pleurocapsales	Hyellaceae	Pleurocapsa	
+ti|1152	Bacteria	Cyanobacteriota	Cyanophyceae	Pseudanabaenales	Pseudanabaenaceae	Pseudanabaena	
+ti|1874526	Bacteria	Cyanobacteriota	Cyanophyceae	Leptolyngbyales	Leptolyngbyaceae	Kovacikia	
+ti|1218	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Prochlorococcaceae	Prochlorococcus	
+ti|2895509	Bacteria	Mycoplasmatota		Mycoplasmoidales	Metamycoplasmataceae	Metamycoplasma	
+ti|2995234	Bacteria	Mycoplasmatota		Mycoplasmoidales	Mycoplasmoidaceae	Mycoplasmoides	
+ti|2132	Bacteria	Mycoplasmatota	Mollicutes	Entomoplasmatales	Spiroplasmataceae	Spiroplasma	
+ti|547	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	
+ti|570	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	
+ti|561	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	
+ti|544	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	
+ti|1330547	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kosakonia	
+ti|2815296	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Jejubacter	
+ti|158851	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Trabulsiella	
+ti|83654	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Leclercia	
+ti|1903434	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Atlantibacter	
+ti|579	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kluyvera	
+ti|586	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Providencia	
+ti|583	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	
+ti|32199	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Buchnera	
+ti|53335	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	
+ti|515417	Bacteria	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Amphritea	
+ti|28253	Bacteria	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Marinomonas	
+ti|305899	Bacteria	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Endozoicomonadaceae	Endozoicomonas	
+ti|416	Bacteria	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylomonas	
+ti|68	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	Lysobacter	
+ti|40323	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	Stenotrophomonas	
+ti|262	Bacteria	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Francisellaceae	Francisella	
+ti|53246	Bacteria	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	
+ti|2042066	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Paraphotobacterium	
+ti|106589	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	
+ti|44013	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	
+ti|33055	Bacteria	Pseudomonadota	Betaproteobacteria			Candidatus Kinetoplastibacterium	
+ti|374	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Nitrobacteraceae	Bradyrhizobium	
+ti|302485	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Roseobacteraceae	Phaeobacter	
+ti|237	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	
+ti|104267	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Tenacibaculum	
+ti|291183	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Lacinutrix	
+ti|261827	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Algibacter	
+ti|52959	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Polaribacter	
+ti|2861660	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Pseudalgibacter	
+ti|2913017	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Aggregatimonas	
+ti|112040	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Zobellia	
+ti|1386924	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Aestuariibaculum	
+ti|76831	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Myroides	
+ti|308865	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Elizabethkingia	
+ti|501783	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Cloacibacterium	
+ti|1778601	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Apibacter	
+ti|34098	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Blattabacteriaceae	Blattabacterium	
+ti|816	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ti|1918540	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	
+ti|2974251	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	
+ti|375288	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	
+ti|1471399	Bacteria	Bacteroidota	Bacteroidia	Marinilabiliales	Prolixibacteraceae	Draconibacterium	
+ti|246875	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Cyclobacteriaceae	Algoriphagus	
+ti|1937972	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Bernardetiaceae	Bernardetia	
+ti|105	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Spirosomataceae	Runella	
+ti|89966	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Hymenobacteraceae	Hymenobacter	
+ti|84567	Bacteria	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	
+ti|28453	Bacteria	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	
+ti|423349	Bacteria	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	
+ti|79328	Bacteria	Bacteroidota	Chitinophagia	Chitinophagales	Chitinophagaceae	Chitinophaga	
+ti|1769012	Bacteria	Bacteroidota	Chitinophagia	Chitinophagales	Chitinophagaceae	Arachidicoccus	
+ti|848	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	
+ti|167639	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Ilyobacter	
+ti|32067	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	
+ti|34104	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Streptobacillus	
+ti|209	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	
+ti|2321111	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Arcobacteraceae	Aliarcobacter	
+ti|194	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	
+ti|202746	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Sulfurimonadaceae	Sulfurimonas	
+ti|138	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	Borrelia	
+ti|64895	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	Borreliella	
+ti|157	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Treponemataceae	Treponema	
+ti|399320	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Sphaerochaetaceae	Sphaerochaeta	
+ti|171	Bacteria	Spirochaetota	Spirochaetia	Leptospirales	Leptospiraceae	Leptospira	
+ti|495819	Bacteria	Bdellovibrionota	Oligoflexia	Silvanigrellales		Spirobacillus	
+ti|1740	Bacteria	Thermodesulfobacteriota	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Thermodesulfobacterium	
+ti|2289	Bacteria	Thermodesulfobacteriota	Desulfobacteria	Desulfobacterales	Desulfobacteraceae	Desulfobacter	
+ti|638847	Bacteria	Synergistota	Synergistia	Synergistales	Dethiosulfovibrionaceae	Pyramidobacter	
+ti|227388	Bacteria	Thermodesulfobiota	Thermodesulfobiia	Thermodesulfobiales	Thermodesulfobiaceae	Thermodesulfobium	
+ti|9605	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	
+ti|2192	Archaea	Methanobacteriota	Methanomicrobia	Methanomicrobiales	Methanocorpusculaceae	Methanocorpusculum	
+ti|2237	Archaea	Methanobacteriota	Halobacteria	Halobacteriales	Haloarculaceae	Haloarcula	
+ti|196118	Archaea	Methanobacteriota	Methanococci	Methanococcales	Methanocaldococcaceae	Methanocaldococcus	
+ti|338191	Archaea	Nitrososphaerota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus	
+ti|3085636	Bacteria	Bacillota	Clostridia	Lachnospirales			
+ti|186802	Bacteria	Bacillota	Clostridia	Eubacteriales			
+ti|3082720	Bacteria	Bacillota	Clostridia	Peptostreptococcales			
+ti|68295	Bacteria	Bacillota	Clostridia	Thermoanaerobacterales			
+ti|485256	Bacteria	Bacillota	Clostridia	Natranaerobiales			
+ti|1385	Bacteria	Bacillota	Bacilli	Bacillales			
+ti|186826	Bacteria	Bacillota	Bacilli	Lactobacillales			
+ti|526525	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales			
+ti|1737405	Bacteria	Bacillota	Tissierellia	Tissierellales			
+ti|1843488	Bacteria	Bacillota	Negativicutes	Acidaminococcales			
+ti|909929	Bacteria	Bacillota	Negativicutes	Selenomonadales			
+ti|85004	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales			
+ti|85007	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales			
+ti|85011	Bacteria	Actinomycetota	Actinomycetes	Kitasatosporales			
+ti|2037	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales			
+ti|85006	Bacteria	Actinomycetota	Actinomycetes	Micrococcales			
+ti|85012	Bacteria	Actinomycetota	Actinomycetes	Streptosporangiales			
+ti|85010	Bacteria	Actinomycetota	Actinomycetes	Pseudonocardiales			
+ti|85009	Bacteria	Actinomycetota	Actinomycetes	Propionibacteriales			
+ti|1161	Bacteria	Cyanobacteriota	Cyanophyceae	Nostocales			
+ti|52604	Bacteria	Cyanobacteriota	Cyanophyceae	Pleurocapsales			
+ti|2881377	Bacteria	Cyanobacteriota	Cyanophyceae	Pseudanabaenales			
+ti|3079749	Bacteria	Cyanobacteriota	Cyanophyceae	Leptolyngbyales			
+ti|1890424	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales			
+ti|2790996	Bacteria	Mycoplasmatota		Mycoplasmoidales			
+ti|186328	Bacteria	Mycoplasmatota	Mollicutes	Entomoplasmatales			
+ti|91347	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales			
+ti|135619	Bacteria	Pseudomonadota	Gammaproteobacteria	Oceanospirillales			
+ti|135618	Bacteria	Pseudomonadota	Gammaproteobacteria	Methylococcales			
+ti|135614	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales			
+ti|72273	Bacteria	Pseudomonadota	Gammaproteobacteria	Thiotrichales			
+ti|135622	Bacteria	Pseudomonadota	Gammaproteobacteria	Alteromonadales			
+ti|135625	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales			
+ti|135623	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales			
+ti|80840	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales			
+ti|356	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales			
+ti|204455	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales			
+ti|200644	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales			
+ti|171549	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales			
+ti|1970189	Bacteria	Bacteroidota	Bacteroidia	Marinilabiliales			
+ti|768507	Bacteria	Bacteroidota	Cytophagia	Cytophagales			
+ti|200666	Bacteria	Bacteroidota	Sphingobacteriia	Sphingobacteriales			
+ti|1853229	Bacteria	Bacteroidota	Chitinophagia	Chitinophagales			
+ti|203491	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales			
+ti|213849	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales			
+ti|136	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales			
+ti|1643688	Bacteria	Spirochaetota	Spirochaetia	Leptospirales			
+ti|2024973	Bacteria	Bdellovibrionota	Oligoflexia	Silvanigrellales			
+ti|188710	Bacteria	Thermodesulfobacteriota	Thermodesulfobacteria	Thermodesulfobacteriales			
+ti|213118	Bacteria	Thermodesulfobacteriota	Desulfobacteria	Desulfobacterales			
+ti|649776	Bacteria	Synergistota	Synergistia	Synergistales			
+ti|3002444	Bacteria	Thermodesulfobiota	Thermodesulfobiia	Thermodesulfobiales			
+ti|9443	Eukaryota	Chordata	Mammalia	Primates			
+ti|2191	Archaea	Methanobacteriota	Methanomicrobia	Methanomicrobiales			
+ti|2235	Archaea	Methanobacteriota	Halobacteria	Halobacteriales			
+ti|2182	Archaea	Methanobacteriota	Methanococci	Methanococcales			
+ti|31932	Archaea	Nitrososphaerota	Nitrososphaeria	Nitrosopumilales			
+ti|1239	Bacteria	Bacillota					
+ti|201174	Bacteria	Actinomycetota					
+ti|1117	Bacteria	Cyanobacteriota					
+ti|544448	Bacteria	Mycoplasmatota					
+ti|1224	Bacteria	Pseudomonadota					
+ti|976	Bacteria	Bacteroidota					
+ti|32066	Bacteria	Fusobacteriota					
+ti|29547	Bacteria	Campylobacterota					
+ti|203691	Bacteria	Spirochaetota					
+ti|3018035	Bacteria	Bdellovibrionota					
+ti|200940	Bacteria	Thermodesulfobacteriota					
+ti|508458	Bacteria	Synergistota					
+ti|3002442	Bacteria	Thermodesulfobiota					
+ti|7711	Eukaryota	Chordata					
+ti|28890	Archaea	Methanobacteriota					
+ti|651137	Archaea	Nitrososphaerota					
+ti|166486	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	Roseburia intestinalis
+ti|2763062	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	Roseburia rectibacter
+ti|301301	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	Roseburia hominis
+ti|1261634	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	Roseburia sp. 499
+ti|1261635	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	Roseburia sp. 831b
+ti|39491	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	Agathobacter rectalis
+ti|649756	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	Anaerostipes hadrus
+ti|208479	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster bolteae
+ti|1531	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster clostridioformis
+ti|333367	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster asparagiformis
+ti|2763672	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Simiaoa	Simiaoa sunii
+ti|2763670	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Wujia	Wujia chipingensis
+ti|89014	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia luti
+ti|40520	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia obeum
+ti|2779518	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia liquoris
+ti|418240	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia wexlerae
+ti|33035	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia producta
+ti|1532	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia coccoides
+ti|1322	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia hansenii
+ti|2479767	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia sp. SC05B48
+ti|1912897	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia argi
+ti|1796616	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia pseudococcoides
+ti|53443	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia hydrogenotrophica
+ti|39488	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerobutyricum	Anaerobutyricum hallii
+ti|33038	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter gnavus
+ti|33039	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	[Ruminococcus] torques
+ti|46228	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	[Ruminococcus] lactaris
+ti|45851	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eshraghiella	Eshraghiella crossota
+ti|831	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyrivibrio	Butyrivibrio fibrisolvens
+ti|88431	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	Dorea longicatena
+ti|39486	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	Dorea formicigenerans
+ti|39485	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	Lachnospira eligens
+ti|29347	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	[Clostridium] scindens
+ti|89153	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	[Clostridium] hylemonae
+ti|1871021	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	Lachnoclostridium phocaeense
+ti|410072	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	Coprococcus comes
+ti|33043	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	Coprococcus eutactus
+ti|116085	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	Coprococcus catus
+ti|751585	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	Coprococcus sp. ART55/1
+ti|2763669	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Qiania	Qiania dongpingensis
+ti|84030	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lacrimispora	Lacrimispora saccharolytica
+ti|168384	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Marvinbryantia	Marvinbryantia formatexigens
+ti|1653434	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Sellimonas	Sellimonas intestinalis
+ti|2785025	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaeromicropila	Anaeromicropila herbilytica
+ti|433286	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerocolumna	Anaerocolumna cellulosilytica
+ti|3039116	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerocolumna	Anaerocolumna sp. AGMB13025
+ti|185007	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Pseudobutyrivibrio	Pseudobutyrivibrio xylanivorans
+ti|3123317	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Kineothrix	Kineothrix sp. IPX-CK
+ti|2709410	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Chordicoccus	Chordicoccus furentiruminis
+ti|1679721	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Herbinix	Herbinix luporum
+ti|2068655	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Novisyntrophococcus	Novisyntrophococcus fermenticellae
+ti|2763667	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Wansuia	Wansuia hejianensis
+ti|3028070	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Claveliimonas	Claveliimonas bilis
+ti|617123	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoanaerobaculum	Lachnoanaerobaculum umeaense
+ti|879970	Bacteria	Bacillota	Clostridia	Lachnospirales	Defluviitaleaceae	Defluviitalea	Defluviitalea saccharophila
+ti|1348613	Bacteria	Bacillota	Clostridia	Lachnospirales	Vallitaleaceae	Vallitalea	Vallitalea pronyensis
+ti|411483	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium duncaniae
+ti|853	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium prausnitzii
+ti|2929489	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. IP-3-29
+ti|2929490	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. I2-3-92
+ti|2929492	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. I3-3-33
+ti|2929488	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. IP-1-18
+ti|2929494	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. I4-1-79
+ti|2929493	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. I3-3-89
+ti|2929491	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium wellingii
+ti|2929495	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. I4-3-84
+ti|2714353	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Vescimonas	Vescimonas fastidiosa
+ti|2714355	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Vescimonas	Vescimonas coprocola
+ti|1550024	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruthenibacterium	Ruthenibacterium lactatiformans
+ti|214851	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Subdoligranulum	Subdoligranulum variabile
+ti|512298	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Subdoligranulum	uncultured Subdoligranulum sp.
+ti|657323	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. SR1/5
+ti|1161942	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus champanellensis
+ti|2763056	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Oscillibacter	Oscillibacter hominis
+ti|2093857	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Dysosmobacter	Dysosmobacter welbionis
+ti|2714358	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Pusillibacter	Pusillibacter faecalis
+ti|292800	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Flavonifractor	Flavonifractor plautii
+ti|3045146	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Petroclostridium	Petroclostridium sp. X23
+ti|2488810	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminiclostridium	Ruminiclostridium herbifermentans
+ti|2780922	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Solibaculum	Solibaculum mannosilyticum
+ti|169435	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Anaerotruncus	Anaerotruncus colihominis
+ti|1515	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Acetivibrio	Acetivibrio thermocellus
+ti|411486	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. M62/1
+ti|97138	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. MD294
+ti|3070996	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. MB40-C1
+ti|2930219	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. BJN0001
+ti|1702238	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. MF28
+ti|1155388	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. C1
+ti|641107	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. DL-VIII
+ti|1502	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium perfringens
+ti|238834	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium estertheticum
+ti|394958	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium taeniosporum
+ti|29341	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium argentinense
+ti|36845	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium intestinale
+ti|1716543	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium thermarum
+ti|36839	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium felsineum
+ti|1491	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium botulinum
+ti|169679	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium saccharobutylicum
+ti|217159	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium carboxidivorans
+ti|1501	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium pasteurianum
+ti|154046	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	Hungatella hathewayi
+ti|2999116	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Oceanirhabdus	Oceanirhabdus sp. W0125-5
+ti|2726954	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Sarcina	Sarcina sp. JB2
+ti|2855394	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Crassaminicella	Crassaminicella indica
+ti|2086584	Bacteria	Bacillota	Clostridia	Eubacteriales		Massilistercora	Massilistercora timonensis
+ti|1297617	Bacteria	Bacillota	Clostridia	Eubacteriales		Intestinimonas	Intestinimonas butyriciproducens
+ti|3050072	Bacteria	Bacillota	Clostridia	Eubacteriales		Proteiniborus	Proteiniborus sp. MB09-C3
+ti|3111540	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriales Family XIII. Incertae Sedis	Sinanaerobacter	Sinanaerobacter sp. ZZT-01
+ti|39496	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium ventriosum
+ti|2841528	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium sp. MSJ-33
+ti|53442	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium callanderi
+ti|1796620	Bacteria	Bacillota	Clostridia	Eubacteriales	Acutalibacteraceae	Acutalibacter	Acutalibacter muris
+ti|233055	Bacteria	Bacillota	Clostridia	Eubacteriales	Desulfitobacteriaceae	Desulfitobacterium	Desulfitobacterium dichloroeliminans
+ti|2293317	Bacteria	Bacillota	Clostridia	Eubacteriales	Syntrophomonadaceae	Candidatus Syntrophocurvum	Candidatus Syntrophocurvum alkaliphilum
+ti|356322	Bacteria	Bacillota	Clostridia	Eubacteriales	Heliobacteriaceae	Heliorestis	Heliorestis convoluta
+ti|51515	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptococcaceae	Dehalobacterium	Dehalobacterium formicoaceticum
+ti|1496	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+ti|1505	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Paraclostridium	Paraclostridium sordellii
+ti|1490	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Paraclostridium	Paraclostridium bifermentans
+ti|2724150	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Romboutsia	Romboutsia sp. CE17
+ti|3114296	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Anaerovoracaceae	Emergencia	Emergencia sp. JLR.KK010
+ti|114527	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Anaerovoracaceae	Mogibacterium	Mogibacterium diversum
+ti|114528	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Anaerovoracaceae	Mogibacterium	Mogibacterium neglectum
+ti|1424294	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Thermotaleaceae	Geosporobacter	Geosporobacter ferrireducens
+ti|208226	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Natronincolaceae	Alkaliphilus	Alkaliphilus metalliredigens
+ti|1550240	Bacteria	Bacillota	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacterium	Thermoanaerobacterium sp. RBIITD
+ti|375929	Bacteria	Bacillota	Clostridia	Natranaerobiales	Natranaerobiaceae	Natranaerobius	Natranaerobius thermophilus
+ti|2054641	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus stercoris
+ti|1423	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis
+ti|72361	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus vallismortis
+ti|483913	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus inaquosorum
+ti|96241	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus spizizenii
+ti|227866	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus tequilensis
+ti|492670	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus velezensis
+ti|659243	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus siamensis
+ti|1390	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus amyloliquefaciens
+ti|1452	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus atrophaeus
+ti|260554	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halotolerans
+ti|72360	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus mojavensis
+ti|1648923	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus paralicheniformis
+ti|1402	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+ti|2809036	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. LJBS06
+ti|1127744	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. JS
+ti|2009331	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. MD-5
+ti|2070759	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. MBGLi79
+ti|2921470	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL K6-1366
+ti|2975304	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL R5-0523
+ti|2921456	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL K6-0993
+ti|745774	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. K1
+ti|2975299	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL R5-0416
+ti|2975293	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL K6-1560
+ti|2762329	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. PAMC26543
+ti|2093834	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. ZY-1-1
+ti|2921564	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL M8-0025
+ti|2954588	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL R5-0560
+ti|2975302	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL R5-0443
+ti|2921574	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL P4-0290
+ti|2921567	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL M8-0071
+ti|2954722	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. PS217
+ti|2859227	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. LJBS17
+ti|2954725	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. PS108
+ti|2954720	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. PS196
+ti|2954721	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. PS210
+ti|2975298	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL L8-0358
+ti|486398	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. S3
+ti|467262	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. T3
+ti|2014076	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FJAT-42376
+ti|2587848	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. THAF10
+ti|2888526	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. BC1-43
+ti|2921565	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL M8-0054
+ti|2448811	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. WR11
+ti|2921523	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL L8-0528
+ti|98228	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. OxB-1
+ti|2928154	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. ZJS3
+ti|2954678	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FSL K6-1012
+ti|563169	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. SJ-10
+ti|2487276	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cabrialesii
+ti|2715209	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus rugosus
+ti|1428	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis
+ti|1405	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus mycoides
+ti|1890302	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus wiedmannii
+ti|64104	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus pseudomycoides
+ti|1396	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus
+ti|1408	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus pumilus
+ti|1664069	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus glycinifermentans
+ti|1925020	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus swezeyi
+ti|1441095	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus gobiensis
+ti|561879	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus safensis
+ti|1547283	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus weihaiensis
+ti|2728853	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus fonticola
+ti|1471	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus methanolicus
+ti|2991053	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Fictibacillus	Fictibacillus sp. KU28468
+ti|3118174	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Rossellomorea	Rossellomorea sp. y25
+ti|189381	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Rossellomorea	Rossellomorea marisflavi
+ti|3131995	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Tepidibacillus	Tepidibacillus marianensis
+ti|265426	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Pontibacillus	Pontibacillus chungwhensis
+ti|2954672	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Neobacillus	Neobacillus sp. FSL H8-0543
+ti|2283160	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Psychrobacillus	Psychrobacillus glaciei
+ti|2020716	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus konkukensis
+ti|2895946	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus sp. MMS20-IR301
+ti|1393	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus	Brevibacillus brevis
+ti|2674991	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Cohnella	Cohnella candidum
+ti|1283	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus haemolyticus
+ti|2282419	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus pseudoxylosus
+ti|308354	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus simiae
+ti|1903704	Bacteria	Bacillota	Bacilli	Bacillales	Alicyclobacillaceae	Tumebacillus	Tumebacillus avium
+ti|2921639	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Solibacillus	Solibacillus sp. FSL R5-0449
+ti|2320858	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Paenisporosarcina	Paenisporosarcina cavernae
+ti|2756	Bacteria	Bacillota	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix thermosphacta
+ti|1307	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus suis
+ti|1303	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus oralis
+ti|3028082	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp. 29896
+ti|1622	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	Ligilactobacillus murinus
+ti|83526	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Companilactobacillus	Companilactobacillus paralimentarius
+ti|1598	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus reuteri
+ti|44008	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus cecorum
+ti|2748	Bacteria	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	Carnobacterium divergens
+ti|2583452	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Amedibacterium	Amedibacterium intestinale
+ti|2487118	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Intestinibaculum	Intestinibaculum porci
+ti|102148	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Solobacterium	Solobacterium moorei
+ti|2478954	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	Catenibacterium	Catenibacterium sp. co_0103
+ti|100886	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	Catenibacterium	Catenibacterium mitsuokai
+ti|1260	Bacteria	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	Finegoldia	Finegoldia magna
+ti|1278232	Bacteria	Bacillota	Tissierellia	Tissierellales	Tepidimicrobiaceae	Keratinibaculum	Keratinibaculum paraultunense
+ti|2823317	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	Phascolarctobacterium sp. Marseille-Q4147
+ti|865	Bacteria	Bacillota	Negativicutes	Selenomonadales	Selenomonadaceae	Pectinatus	Pectinatus frisingensis
+ti|216816	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium longum
+ti|28026	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium pseudocatenulatum
+ti|2983222	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium sp. ESL0732
+ti|1286180	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycolicibacterium	Mycolicibacterium sediminis
+ti|258224	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium resistens
+ti|2548456	Bacteria	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomycetaceae	Streptomyces	Streptomyces aquilus
+ti|1661	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Trueperella	Trueperella pyogenes
+ti|629680	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium sandarakinum
+ti|524884	Bacteria	Actinomycetota	Actinomycetes	Pseudonocardiales	Pseudonocardiaceae	Saccharopolyspora	Saccharopolyspora rosea
+ti|3052086	Bacteria	Actinomycetota	Actinomycetes	Propionibacteriales	Propionibacteriaceae	Propionimicrobium	Propionimicrobium sp. PCR01-08-3
+ti|1752063	Bacteria	Cyanobacteriota	Cyanophyceae	Nostocales	Hapalosiphonaceae	Fischerella	Fischerella sp. NIES-3754
+ti|984207	Bacteria	Cyanobacteriota	Cyanophyceae	Nostocales	Aphanizomenonaceae	Sphaerospermopsis	Sphaerospermopsis torques-reginae
+ti|118163	Bacteria	Cyanobacteriota	Cyanophyceae	Pleurocapsales	Hyellaceae	Pleurocapsa	Pleurocapsa sp. PCC 7327
+ti|3040204	Bacteria	Cyanobacteriota	Cyanophyceae	Pleurocapsales	Hyellaceae	Pleurocapsa	Pleurocapsa sp. FMAR1
+ti|71190	Bacteria	Cyanobacteriota	Cyanophyceae	Pseudanabaenales	Pseudanabaenaceae	Pseudanabaena	Pseudanabaena mucicola
+ti|2931930	Bacteria	Cyanobacteriota	Cyanophyceae	Leptolyngbyales	Leptolyngbyaceae	Kovacikia	Kovacikia minuta
+ti|92400	Bacteria	Mycoplasmatota		Mycoplasmoidales	Metamycoplasmataceae	Metamycoplasma	[Mycoplasma] anseris
+ti|92401	Bacteria	Mycoplasmatota		Mycoplasmoidales	Metamycoplasmataceae	Metamycoplasma	Metamycoplasma cloacale
+ti|92758	Bacteria	Mycoplasmatota		Mycoplasmoidales	Mycoplasmoidaceae	Mycoplasmoides	Mycoplasmoides fastidiosum
+ti|3066281	Bacteria	Mycoplasmatota	Mollicutes	Entomoplasmatales	Spiroplasmataceae	Spiroplasma	Spiroplasma endosymbiont of Asaphidion curtum
+ti|3029761	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter pasteurii
+ti|550	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae
+ti|158836	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter hormaechei
+ti|2027919	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex sp.
+ti|1329841	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. BIDMC 29
+ti|2850492	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex sp. ECL78
+ti|1812935	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter roggenkampii
+ti|61645	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter asburiae
+ti|2497875	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter chuandaensis
+ti|69218	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cancerogenus
+ti|299767	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter ludwigii
+ti|2494701	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter chengduensis
+ti|208224	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter kobei
+ti|2071710	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sichuanensis
+ti|539813	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter mori
+ti|881260	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter bugandensis
+ti|885040	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter soli
+ti|573	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae
+ti|548	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella aerogenes
+ti|1463165	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella quasipneumoniae
+ti|562	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli
+ti|546	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter freundii
+ti|1639133	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter portucalensis
+ti|208223	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kosakonia	Kosakonia cowanii
+ti|2579935	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Jejubacter	Jejubacter calystegiae
+ti|379893	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Trabulsiella	Trabulsiella odontotermitis
+ti|2681309	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Leclercia	Leclercia sp. Colony189
+ti|51288	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kluyvera	Kluyvera ascorbata
+ti|2923283	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Providencia	Providencia manganoxydans
+ti|158850	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Providencia	Providencia rustigianii
+ti|584	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	Proteus mirabilis
+ti|1574161	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	Proteus terrae
+ti|9	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Buchnera	Buchnera aphidicola
+ti|2052056	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	Pantoea phytobeneficialis
+ti|452627	Bacteria	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Amphritea	Amphritea japonica
+ti|2773454	Bacteria	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Marinomonas	Marinomonas algicola
+ti|3009078	Bacteria	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Endozoicomonadaceae	Endozoicomonas	Endozoicomonas sp. GU-1
+ti|107637	Bacteria	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylomonas	Methylomonas sp. LW13
+ti|435897	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	Lysobacter	Lysobacter capsici
+ti|2016517	Bacteria	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Francisellaceae	Francisella	Francisella opportunistica
+ti|1755811	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Paraphotobacterium	Paraphotobacterium marinum
+ti|164546	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	Cupriavidus taiwanensis
+ti|2527775	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter paneuropaeus
+ti|1576550	Bacteria	Pseudomonadota	Betaproteobacteria			Candidatus Kinetoplastibacterium	Candidatus Kinetoplastibacterium sorsogonicusi
+ti|3056648	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Nitrobacteraceae	Bradyrhizobium	Bradyrhizobium roseum
+ti|60890	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Roseobacteraceae	Phaeobacter	Phaeobacter gallaeciensis
+ti|3092665	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sp. KACC 22761
+ti|2781243	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Tenacibaculum	Tenacibaculum finnmarkense
+ti|2057808	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Lacinutrix	Lacinutrix sp. Bg11-31
+ti|2686365	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Algibacter	Algibacter sp. L1A34
+ti|754397	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Polaribacter	Polaribacter sp. SA4-10
+ti|1736674	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Pseudalgibacter	Pseudalgibacter alginicilyticus
+ti|2583587	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Aggregatimonas	Aggregatimonas sangjinii
+ti|3032586	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Zobellia	Zobellia alginiliquefaciens
+ti|3070659	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Aestuariibaculum	Aestuariibaculum sp. YM273
+ti|2572594	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Myroides	Myroides fluvii
+ti|2004710	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Cloacibacterium	Cloacibacterium caeni
+ti|2500547	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Apibacter	Apibacter raozihei
+ti|1653831	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Blattabacteriaceae	Blattabacterium	Blattabacterium cuenoti
+ti|371601	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides xylanisolvens
+ti|817	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis
+ti|2530390	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	Muribaculum gordoncarteri
+ti|165179	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	Segatella copri
+ti|823	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides distasonis
+ti|1573823	Bacteria	Bacteroidota	Bacteroidia	Marinilabiliales	Prolixibacteraceae	Draconibacterium	uncultured Draconibacterium sp.
+ti|2772483	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Cyclobacteriaceae	Algoriphagus	Algoriphagus sp. Y33
+ti|388413	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Cyclobacteriaceae	Algoriphagus	Algoriphagus machipongonensis
+ti|999	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Bernardetiaceae	Bernardetia	Bernardetia litoralis
+ti|3127471	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Bernardetiaceae	Bernardetia	Bernardetia sp. Wsw4-3y2
+ti|2259595	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Spirosomataceae	Runella	Runella rosea
+ti|2502781	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Hymenobacteraceae	Hymenobacter	Hymenobacter jejuensis
+ti|188932	Bacteria	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	Pedobacter cryoconitis
+ti|561061	Bacteria	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	Sphingobacterium psychroaquaticum
+ti|551996	Bacteria	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	Mucilaginibacter gossypii
+ti|104663	Bacteria	Bacteroidota	Chitinophagia	Chitinophagales	Chitinophagaceae	Chitinophaga	Chitinophaga filiformis
+ti|2875539	Bacteria	Bacteroidota	Chitinophagia	Chitinophagales	Chitinophagaceae	Arachidicoccus	Arachidicoccus terrestris
+ti|861	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium ulcerans
+ti|850	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium mortiferum
+ti|544433	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Ilyobacter	uncultured Ilyobacter sp.
+ti|712368	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	Leptotrichia sp. oral taxon 498
+ti|157687	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	Leptotrichia wadei
+ti|34105	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Streptobacillus	Streptobacillus moniliformis
+ti|56877	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter bizzozeronii
+ti|157268	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter winghamensis
+ti|28197	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Arcobacteraceae	Aliarcobacter	Aliarcobacter butzleri
+ti|708186	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Arcobacteraceae	Aliarcobacter	Aliarcobacter trophiarum
+ti|197	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter jejuni
+ti|2887345	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	Borrelia	Borrelia sp. BU AG58
+ti|1674146	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	Borreliella	Borreliella mayonii
+ti|886478	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Sphaerochaetaceae	Sphaerochaeta	uncultured Sphaerochaeta sp.
+ti|28183	Bacteria	Spirochaetota	Spirochaetia	Leptospirales	Leptospiraceae	Leptospira	Leptospira santarosai
+ti|495820	Bacteria	Bdellovibrionota	Oligoflexia	Silvanigrellales		Spirobacillus	Spirobacillus cienkowskii
+ti|2234087	Bacteria	Thermodesulfobacteriota	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Thermodesulfobacterium	Thermodesulfobacterium sp. TA1
+ti|240139	Bacteria	Thermodesulfobacteriota	Desulfobacteria	Desulfobacterales	Desulfobacteraceae	Desulfobacter	uncultured Desulfobacter sp.
+ti|3068894	Bacteria	Synergistota	Synergistia	Synergistales	Dethiosulfovibrionaceae	Pyramidobacter	Pyramidobacter sp. YE332
+ti|1794699	Bacteria	Thermodesulfobiota	Thermodesulfobiia	Thermodesulfobiales	Thermodesulfobiaceae	Thermodesulfobium	Thermodesulfobium acidiphilum
+ti|9606	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ti|176309	Archaea	Methanobacteriota	Methanomicrobia	Methanomicrobiales	Methanocorpusculaceae	Methanocorpusculum	uncultured Methanocorpusculum sp.
+ti|3111776	Archaea	Methanobacteriota	Halobacteria	Halobacteriales	Haloarculaceae	Haloarcula	Haloarcula sp. GH36
+ti|644281	Archaea	Methanobacteriota	Methanococci	Methanococcales	Methanocaldococcaceae	Methanocaldococcus	Methanocaldococcus sp. FS406-22
+ti|1959104	Archaea	Nitrososphaerota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus	Nitrosopumilus oxyclinae
+ti|1937959	Bacteria	Bacteroidota	Saprospiria				
+ti|3118655	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Filifactoraceae		
+ti|3039168	Bacteria	Bacillota	Clostridia	Moorellales	Moorellaceae		
+ti|2042895	Bacteria	Bacillota	Tissierellia	Tissierellales	Gottschalkiaceae		
+ti|1268	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae		
+ti|1903411	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae		
+ti|82115	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae		
+ti|41297	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae		
+ti|89374	Bacteria	Bacteroidota	Saprospiria	Saprospirales	Saprospiraceae		
+ti|1213720	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Stomatobaculum	
+ti|33951	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Acetobacterium	
+ti|186831	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Filifactoraceae	Acetoanaerobium	
+ti|1754	Bacteria	Bacillota	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacter	
+ti|202949	Bacteria	Bacillota	Clostridia	Moorellales	Moorellaceae	Thermanaeromonas	
+ti|2837506	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Niallia	
+ti|1637	Bacteria	Bacillota	Bacilli	Bacillales	Listeriaceae	Listeria	
+ti|33969	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Melissococcus	
+ti|1505664	Bacteria	Bacillota	Tissierellia	Tissierellales	Gottschalkiaceae	Gottschalkia	
+ti|596707	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	Sinomonas	
+ti|613	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	
+ti|187492	Bacteria	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Thalassolituus	
+ti|34019	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	Liberibacter	
+ti|2676233	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingosinithalassobacter	
+ti|909656	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	
+ti|1007	Bacteria	Bacteroidota	Saprospiria	Saprospirales	Saprospiraceae	Saprospira	
+ti|3039167	Bacteria	Bacillota	Clostridia	Moorellales			
+ti|204457	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales			
+ti|1936988	Bacteria	Bacteroidota	Saprospiria	Saprospirales			
+ti|3059030	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Stomatobaculum	Stomatobaculum sp. F0698
+ti|2497860	Bacteria	Bacillota	Clostridia	Lachnospirales	Cellulosilyticaceae	Cellulosilyticum	Cellulosilyticum sp. WCF-2
+ti|2564099	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus bovis
+ti|1493	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium cellulovorans
+ti|1511	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Filifactoraceae	Acetoanaerobium	Acetoanaerobium sticklandii
+ti|108150	Bacteria	Bacillota	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacter	Thermoanaerobacter italicus
+ti|161154	Bacteria	Bacillota	Clostridia	Moorellales	Moorellaceae	Thermanaeromonas	Thermanaeromonas toyohensis
+ti|1397	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Niallia	Niallia circulans
+ti|2954661	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus sp. FSL R10-2782
+ti|1643	Bacteria	Bacillota	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria welshimeri
+ti|1584	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus delbrueckii
+ti|33970	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Melissococcus	Melissococcus plutonius
+ti|1522	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae		[Clostridium] innocuum
+ti|1556	Bacteria	Bacillota	Tissierellia	Tissierellales	Gottschalkiaceae	Gottschalkia	Gottschalkia acidurici
+ti|37927	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	Sinomonas	Sinomonas atrocyanea
+ti|2742676	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. RHBSTW-00994
+ti|2866201	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. Colony194
+ti|615	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	Serratia marcescens
+ti|187493	Bacteria	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Thalassolituus	Thalassolituus oleivorans
+ti|1273132	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	Liberibacter	Liberibacter crescens
+ti|2711215	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingosinithalassobacter	Sphingosinithalassobacter tenebrarum
+ti|387090	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola coprophilus
+ti|3097546	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Cyclobacteriaceae	Algoriphagus	Algoriphagus sp. NG3
+ti|1008	Bacteria	Bacteroidota	Saprospiria	Saprospirales	Saprospiraceae	Saprospira	Saprospira grandis

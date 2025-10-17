@@ -29,7 +29,8 @@ The hands-on session is divided into three subsessions:
     - For machine and deep learning sessions:
         - A supported IDE (needed for scripts)
         - Jupyter Notebook or VSCode(ium)
-        - Python 3 and its libraries
+        - Python 3 and its libraries (requirements.yml)
+        - Anaconda or Miniconda
 
 ### Getting Started
 1. Clone this repository: `git clone https://github.com/berkayekren/COST-BioAqua-HandsOn_Session.git`
@@ -41,6 +42,9 @@ The hands-on session is divided into three subsessions:
 - [BIOAQUA COST Action Website](https://www.cost.eu/actions/CA22160/)
 - 📚 Suggested Reading & Resources:
     - [QIIME 2 16S Amplicon Pipeline](https://library.qiime2.org/quickstart/amplicon)
+    - [MEDUSA GitHub](https://github.com/combogenomics/medusa)
+    - [EURYALE GitHub](https://github.com/dalmolingroup/euryale)
+    - [nf-core/mag](https://nf-co.re/mag/5.0.0/)
     - [QIIME 2 - MOSHPIT Whole Metagenome Pipeline](https://library.qiime2.org/quickstart/moshpit)
     - [QIIME 2 Machine Learning Plugin](https://docs.qiime2.org/)
     - [Meta-CAMP - MetaSUB Whole Metagenome Analysis Pipeline](https://github.com/Meta-CAMP)

@@ -1,0 +1,5 @@
+test_data,begin,5242562,1.0,786384300,1.0,150.0
+test_data,lowqual_removal,5242562,1.0,786384300,1.0,150.0
+test_data,adapter_removal,5242562,1.0,786384300,1.0,150.0
+test_data,host_removal,5242562,1.0,786384300,1.0,150.0
+test_data,error_removal,5242562,1.0,786384300,1.0,150.0

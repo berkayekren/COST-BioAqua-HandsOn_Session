@@ -1,0 +1,2 @@
+sample_name	feature_1
+test_data	yes	no

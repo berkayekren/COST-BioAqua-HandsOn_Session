@@ -1,3 +1,7 @@
+# Author: Berkay Ekren
+# Date: 2025-10-15
+# Description: This script performs multi-omics data integration using the Early Integration strategy.
+
 import os
 import pandas as pd
 import numpy as np

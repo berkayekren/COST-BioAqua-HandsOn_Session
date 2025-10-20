@@ -23,7 +23,7 @@ The hands-on session is divided into three subsessions:
     Practical session on functional annotation and analysis of microbiome data, including tools for pathway analysis and taxonomic profiling.
 
 ### Prerequisites
-- Basic knowledge of R/Python programming.
+- Basic knowledge of Bash language and Python programming.
 - Familiarity with microbiome data formats (e.g., OTU tables, FASTA files).
 - Required software:
     - For machine and deep learning sessions:

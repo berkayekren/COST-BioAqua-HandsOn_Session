@@ -3,7 +3,7 @@
 ## BIOAQUA COST CA22106 - Microbiome Day-2 Hands-On Session (2025-10-21)
 
 ### Overview
-This repository contains materials and resources for the hands-on session on microbiome analysis as part of the BIOAQUA COST Action CA22106. The session focuses on practical applications of microbiome data in aquatic environments.
+This repository contains materials and resources for the 2nd day hands-on session on microbiome analysis as part of the BIOAQUA COST Action CA22160. The session focuses on practical applications of microbiome data in aquatic environments.
 
 ### Session Details
 - **Date**: October 21, 2025

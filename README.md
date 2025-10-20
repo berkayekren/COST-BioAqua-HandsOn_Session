@@ -3,7 +3,7 @@
 ## BIOAQUA COST CA22106 - Microbiome Day-2 Hands-On Session (2025-10-21)
 
 ### Overview
-This repository contains materials and resources for the hands-on session on microbiome analysis as part of the BIOAQUA COST Action CA22106. The session focuses on practical applications of microbiome data in aquatic environments.
+This repository contains materials and resources for the 2nd day hands-on session on microbiome analysis as part of the BIOAQUA COST Action CA22160. The session focuses on practical applications of microbiome data in aquatic environments.
 
 ### Session Details
 - **Date**: October 21, 2025
@@ -20,15 +20,15 @@ The hands-on session is divided into three subsessions:
     Hands-on exploration of deep learning methods for microbiome analysis, such as neural networks for classification and prediction.
 
 3. **Functional Analysis** (16:30 - 17:15)  
-    Practical session on functional annotation and analysis of microbiome data, including tools for pathway analysis and metabolic profiling.
+    Practical session on functional annotation and analysis of microbiome data, including tools for pathway analysis and taxonomic profiling.
 
 ### Prerequisites
-- Basic knowledge of R/Python programming.
+- Basic knowledge of Bash language and Python programming.
 - Familiarity with microbiome data formats (e.g., OTU tables, FASTA files).
 - Required software:
     - For machine and deep learning sessions:
         - A supported IDE (needed for scripts)
-        - Jupyter Notebook or VSCode(ium)
+        - Jupyter Notebook or VSCode(ium) on local or Google Collab on Google
         - Python 3 and its libraries (requirements.yml)
         - Anaconda or Miniconda
 

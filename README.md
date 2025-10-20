@@ -56,7 +56,7 @@ The hands-on session is divided into three subsessions:
     - Example datasets: [EBI Metagenomics](https://www.ebi.ac.uk/metagenomics/)
 
 ### Contact
-For questions, contact Berkay Ekren [berkayekren@gmail.com] or the session organizers.
+For questions about the session, contact Berkay Ekren [berkayekren@gmail.com] or the session organizers.
 
 ---
 *This session is part of the BIOAQUA COST Action CA22160.*

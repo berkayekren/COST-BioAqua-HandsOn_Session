@@ -14,3 +14,4 @@ dependencies:
     - Boruta==0.4.3
     - xgboost==3.0.5
     - lightgbm==4.3.0
+    - tensorflow==2.16.2

@@ -32,10 +32,12 @@ The hands-on session is divided into three subsessions:
         - Python 3 and its libraries (requirements.yml)
         - Anaconda or Miniconda
 
+
 ### Getting Started
 1. Clone this repository: `git clone https://github.com/berkayekren/COST-BioAqua-HandsOn_Session.git`
 2. Install dependencies:
     - conda environment (Anaconda, miniconda or mamba environment)
+    - `conda env create -f requirements.yml`
 3. Follow the notebooks/scripts in the respective subsession folders.
 
 ### Resources

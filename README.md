@@ -20,7 +20,7 @@ The hands-on session is divided into three subsessions:
     Hands-on exploration of deep learning methods for microbiome analysis, such as neural networks for classification and prediction.
 
 3. **Functional Analysis** (16:30 - 17:15)  
-    Practical session on functional annotation and analysis of microbiome data, including tools for pathway analysis and metabolic profiling.
+    Practical session on functional annotation and analysis of microbiome data, including tools for pathway analysis and taxonomic profiling.
 
 ### Prerequisites
 - Basic knowledge of R/Python programming.

@@ -44,6 +44,7 @@ The hands-on session is divided into three subsessions:
 - [BIOAQUA COST Action Website](https://www.cost.eu/actions/CA22160/)
 - 📚 Suggested Reading & Resources:
     - [QIIME 2 16S Amplicon Pipeline](https://library.qiime2.org/quickstart/amplicon)
+    - [ONT - 16S pipeline](https://nanoporetech.com/document/epi2me-workflows/wf-16s)
     - [MEDUSA GitHub](https://github.com/combogenomics/medusa)
     - [EURYALE GitHub](https://github.com/dalmolingroup/euryale)
     - [nf-core/mag](https://nf-co.re/mag/5.0.0/)
